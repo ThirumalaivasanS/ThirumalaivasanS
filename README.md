@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://BreadcrumbsThirumalaivasanS.io">
-    <img src="https://i.gifer.com/74pZ.mp4" alt="MasterHead">
+    <img src="https://i.gifer.com/74pZ.gif" alt="MasterHead">
   </a>
 </p>
 
