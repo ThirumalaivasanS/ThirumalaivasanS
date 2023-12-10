@@ -7,7 +7,7 @@
 <h1 align="center">Hi 👋, I'm Thirumalaivasan S</h1>
 <h3 align="center">An Aspiring Data Scientist from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/8619169/screenshots/16116886/media/a63d64bcccad878cb9dfdb9a9f6b6416.gif">
-- 🌱 I’m currently learning **NLP**
+- 🌱 I’m currently learning **GEN AI**
 
 - 💬 Ask me about **Python,MySQL,MongoDB,Machine Learning**
 
